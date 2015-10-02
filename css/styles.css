@@ -1,0 +1,12 @@
+body {
+	background-color: black;
+	padding: 0px;
+	margin: 0px;
+}
+
+.wrap {
+	border: solid 1px white;
+width: 900px;
+	margin: 0 auto;
+	height: 100vh;
+}
