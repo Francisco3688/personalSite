@@ -1,0 +1,48 @@
+#topbackground {
+	background-color: black;
+}
+
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	font-size: 100pt;
+	font-family: tahoma;
+	color: white;
+}
+
+nav ul li {
+	display: inline;
+	font-family: Arial;
+	font-size: 18pt;
+	list-style: none;
+	padding-right: 110px;
+	padding-left: 110px;
+
+}
+
+nav ul a {
+	color: black;
+	text-decoration:none;
+}
+
+nav ul a:hover {
+    color: white;
+    text-decoration: none;
+    background-color: black;
+    background-size: 20px;
+    cursor: hand;
+    padding-top: 10px;
+    padding-bottom: 10px
+}
+
+#collage {
+	border: double 2px black;
+	width: 80%;
+	margin: 0 auto;
+	padding-left: 50px;
+}
+
+.shape {
+	float: left;
+	top: 0px;
+}
