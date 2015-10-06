@@ -1,0 +1,60 @@
+body {
+	text-align: center;
+}
+
+#welcome {
+	float: right;
+	margin-right: 180px;
+	padding-left: 100px;
+	padding-right: 100px;
+	background-color: black;
+	font-family: arial;
+	color: white;
+	font-size: 30pt;
+}
+
+nav ul li {
+	display: inline;
+	font-family: Arial;
+	font-size: 18pt;
+	list-style: none;
+	padding-right: 80px;
+	padding-left: 80px;
+	border-right: solid 2px;
+	border-left: solid 2px;
+	margin-right: 5px;
+	color: black;
+}
+
+a:hover {
+    color: white;
+    background-color: black;
+    background-size: 20px;
+    cursor: hand;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+a:link {
+	text-decoration: none;
+	color: black;
+	}
+
+#socialMedia {
+	margin-left: 165px;
+	list-style: none;
+	position: absolute;
+	top: 650px;
+	border: solid 1px black;
+	background-color: black;
+}
+
+#upcoming {
+	border: solid 2px black;
+	float: right;
+	margin-top: 30px;
+	margin-right: 197px;
+	padding: 15px;
+	text-decoration: underline;
+	font-family: Arial;
+}
